@@ -2,6 +2,8 @@
 
 #### Is SolrNet a .NET port of Solr?
 
+Do you like it?
+
 No, SolrNet is a HTTP client so you can talk to Solr from your .NET application. If you want to run Solr on .NET, take a look at this [blog post](http://bugsquash.blogspot.com/2011/02/running-solr-on-net.html).
 
 #### What version of Solr do I need? Does SolrNet work with the latest release of Solr?
