@@ -4,6 +4,8 @@ By default SolrNet maps Solr fields using attributes. However you might want to 
 
 Change 2
 
+Suash commit 1
+
 ### Built-in container
 If you're using the default built-in container, you can replace it like this before calling `Startup.Init()`:
 
