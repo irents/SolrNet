@@ -1,6 +1,8 @@
 Solr fields defined in your schema.xml must be mapped to properties in a .NET class.
 SolrNet does not write the schema.xml based on .NET code. It's up to you to keep this in sync. Note that sometimes you might not want to have things *exactly* in sync, as some fields might be represented differently in .NET and Solr or you might want to have additional fields in Solr for other use cases.
 
+Show your strength!
+
 In SolrNet there are currently three built-in ways to map fields:
 
 ### Attributes (default)
