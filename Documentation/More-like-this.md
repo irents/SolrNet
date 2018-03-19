@@ -1,5 +1,7 @@
 # More-like-this
 
+Change 1
+
 This feature returns a list of similar documents for each document returned in the results of the original query.
 
 Parameters are defined through the `MoreLikeThis` property of the `QueryOptions`.
