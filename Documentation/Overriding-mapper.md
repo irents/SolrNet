@@ -2,6 +2,8 @@
 
 By default SolrNet maps Solr fields using attributes. However you might want to use [another mapper](Mapping.md). Replacing the default mapper depends on how you set up the library:
 
+Change 2
+
 ### Built-in container
 If you're using the default built-in container, you can replace it like this before calling `Startup.Init()`:
 
