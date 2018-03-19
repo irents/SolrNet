@@ -2,6 +2,8 @@
 
 ### Simple query
 
+Adding a small change!
+
 This is the simplest 'query object' in SolrNet. Whatever you give it is passed straight to [Solr's q parameter](http://wiki.apache.org/solr/SearchHandler#q)
 
 ```
