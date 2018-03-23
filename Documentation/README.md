@@ -2,8 +2,6 @@
 
 SolrNet does not attempt to abstract much over Solr, it's assumed that you know what Solr is and how to use it, just as you need to know relational databases before using an ORM.
 
-These are just some changes made to show you something usefull.
-
 If you're not familiar with Solr, take your time to follow the [Solr tutorial](http://lucene.apache.org/solr/tutorial.html), see the [FAQ](http://wiki.apache.org/solr/FAQ) and the [docs](http://wiki.apache.org/solr/FrontPage ). Consider getting a [book](http://lucene.apache.org/solr/books.html).
 
 <!-- This page documents SolrNet features in the master branch. For version-specific documentation, see the Documentation directory on the corresponding version branch. For example https://github.com/mausch/SolrNet/blob/0.4.x/Documentation/README.md -->
