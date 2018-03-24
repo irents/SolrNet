@@ -6,8 +6,6 @@ SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display
 
 There are basically three kinds of facet queries:
 
-0000
-
  1. querying by field
  1. date facets
  1. arbitrary facet queries
